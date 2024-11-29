@@ -1,0 +1,55 @@
+#title {
+   color: #8E26C0;
+   text-align: center;
+   font-size: 64px;
+   height: 84px;
+}
+
+#limitedOffer {
+   color: #FF0000;
+   background: #FFE8E8;
+   text-align: center;
+   font-size: 32px;
+   width: 446px;
+   height: 38px;
+
+
+}
+
+#discountText {
+   color: #85647B;
+   border: solid 2px #00C76E;
+   font-size: 40px;
+   width: 943px;
+   height: 96px;
+   text-align: center
+}
+
+#seasonText {
+   background-color: #FFE8E8;
+   font-size: 32px;
+   text-align: center;
+   width: 943px;
+   height: 85px;
+   color: #85647B;
+}
+
+#percent {
+   color: red;
+}
+
+#hurryText {
+   color: #0064CE;
+   width: 989px;
+   height: 38px;
+   border: 2px solid #3538CD;
+   font-size: 32px;
+   text-align: right;
+}
+
+#image {
+   width: 556px;
+   height: 347px;
+
+
+}
